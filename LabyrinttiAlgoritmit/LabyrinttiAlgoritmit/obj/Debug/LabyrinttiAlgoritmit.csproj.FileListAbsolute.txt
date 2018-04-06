@@ -1,0 +1,6 @@
+C:\Users\Joni\Source\Repos\LabyrintinRatkaisuAlgoritmit\LabyrinttiAlgoritmit\LabyrinttiAlgoritmit\bin\Debug\LabyrinttiAlgoritmit.exe.config
+C:\Users\Joni\Source\Repos\LabyrintinRatkaisuAlgoritmit\LabyrinttiAlgoritmit\LabyrinttiAlgoritmit\bin\Debug\LabyrinttiAlgoritmit.exe
+C:\Users\Joni\Source\Repos\LabyrintinRatkaisuAlgoritmit\LabyrinttiAlgoritmit\LabyrinttiAlgoritmit\bin\Debug\LabyrinttiAlgoritmit.pdb
+C:\Users\Joni\Source\Repos\LabyrintinRatkaisuAlgoritmit\LabyrinttiAlgoritmit\LabyrinttiAlgoritmit\obj\Debug\LabyrinttiAlgoritmit.csprojResolveAssemblyReference.cache
+C:\Users\Joni\Source\Repos\LabyrintinRatkaisuAlgoritmit\LabyrinttiAlgoritmit\LabyrinttiAlgoritmit\obj\Debug\LabyrinttiAlgoritmit.exe
+C:\Users\Joni\Source\Repos\LabyrintinRatkaisuAlgoritmit\LabyrinttiAlgoritmit\LabyrinttiAlgoritmit\obj\Debug\LabyrinttiAlgoritmit.pdb

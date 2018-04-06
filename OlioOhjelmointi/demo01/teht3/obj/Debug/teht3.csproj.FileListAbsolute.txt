@@ -1,0 +1,6 @@
+Z:\2. Vuosi\OlioOhjelmointi\demo01\teht3\bin\Debug\teht3.exe.config
+Z:\2. Vuosi\OlioOhjelmointi\demo01\teht3\bin\Debug\teht3.exe
+Z:\2. Vuosi\OlioOhjelmointi\demo01\teht3\bin\Debug\teht3.pdb
+Z:\2. Vuosi\OlioOhjelmointi\demo01\teht3\obj\Debug\teht3.csprojResolveAssemblyReference.cache
+Z:\2. Vuosi\OlioOhjelmointi\demo01\teht3\obj\Debug\teht3.exe
+Z:\2. Vuosi\OlioOhjelmointi\demo01\teht3\obj\Debug\teht3.pdb

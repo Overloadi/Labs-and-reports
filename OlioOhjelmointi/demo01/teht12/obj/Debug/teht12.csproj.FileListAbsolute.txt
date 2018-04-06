@@ -1,0 +1,6 @@
+D:\K1625\demo01\teht12\bin\Debug\teht12.exe.config
+D:\K1625\demo01\teht12\bin\Debug\teht12.exe
+D:\K1625\demo01\teht12\bin\Debug\teht12.pdb
+D:\K1625\demo01\teht12\obj\Debug\teht12.csprojResolveAssemblyReference.cache
+D:\K1625\demo01\teht12\obj\Debug\teht12.exe
+D:\K1625\demo01\teht12\obj\Debug\teht12.pdb

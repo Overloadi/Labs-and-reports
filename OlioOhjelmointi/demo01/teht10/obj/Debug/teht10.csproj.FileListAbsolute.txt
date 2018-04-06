@@ -1,0 +1,5 @@
+Z:\2. Vuosi\OlioOhjelmointi\demo01\teht10\bin\Debug\teht10.exe.config
+Z:\2. Vuosi\OlioOhjelmointi\demo01\teht10\bin\Debug\teht10.exe
+Z:\2. Vuosi\OlioOhjelmointi\demo01\teht10\bin\Debug\teht10.pdb
+Z:\2. Vuosi\OlioOhjelmointi\demo01\teht10\obj\Debug\teht10.exe
+Z:\2. Vuosi\OlioOhjelmointi\demo01\teht10\obj\Debug\teht10.pdb

@@ -1,0 +1,7 @@
+Z:\2. Vuosi\OlioOhjelmointi\demo01\teht11\bin\Debug\teht11.exe.config
+D:\K1625\demo01\teht11\bin\Debug\teht11.exe.config
+D:\K1625\demo01\teht11\bin\Debug\teht11.exe
+D:\K1625\demo01\teht11\bin\Debug\teht11.pdb
+D:\K1625\demo01\teht11\obj\Debug\teht11.csprojResolveAssemblyReference.cache
+D:\K1625\demo01\teht11\obj\Debug\teht11.exe
+D:\K1625\demo01\teht11\obj\Debug\teht11.pdb
